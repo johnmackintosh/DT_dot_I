@@ -1,0 +1,438 @@
+Data_Zone,Intermediate_Zone,Council_area,Total_population,Working_age_population,SIMD2020v2_Rank,SIMD2020v2_Income_Domain_Rank,SIMD2020_Employment_Domain_Rank,SIMD2020_Health_Domain_Rank,SIMD2020_Education_Domain_Rank,SIMD2020_Access_Domain_Rank,SIMD2020_Crime_Domain_Rank,SIMD2020_Housing_Domain_Rank,quintile,decile,vigintile,percentile,CP,DZ_Name,LARank,Number of small areas in CP,Number of small areas in LA,LAQuintile,Number in LA Quintile,children 00-17,all ages,NameC
+S01010644,Inverness Merkinch,Highland,672,453,8,14,21,12,154,3441,81,1386,1,1,1,1,Inverness,Inverness Merkinch North,1,103,312,1,63,161,678,Inverness Merkinch North
+S01010643,Inverness Merkinch,Highland,741,462,174,123,401,639,100,1275,241,1975,1,1,1,3,Inverness,Inverness South Kessock,2,103,312,1,63,237,720,Inverness South Kessock
+S01007366,Dunoon,Argyll and Bute,451,241,189,261,49,223,929,6286,304,705,1,1,1,3,Bute & Cowal,-,1,32,125,1,25,80,444,Dunoon
+S01010778,Wick South,Highland,476,323,215,417,178.5,240,148,4202,446,1700,1,1,1,4,Caithness,Wick Pultneytown South,3,38,312,1,63,113,486,Wick Pultneytown South
+S01010740,Invergordon,Highland,487,311,216,176,126,128,1610,2871,1190,3822,1,1,1,4,East Ross,Invergordon Strath Avenue,4,30,312,1,63,110,493,Invergordon Strath Avenue
+S01010641,Inverness Merkinch,Highland,1015,723,240,383,261,245,225,5935,169,835,1,1,1,4,Inverness,Inverness Merkinch East,5,103,312,1,63,181,994,Inverness Merkinch East
+S01007399,Helensburgh East,Argyll and Bute,618,393,294,516,196,256,488,3443,804,1775,1,1,1,5,Helensburgh & Lomond,-,2,37,125,1,25,144,612,Helensburgh East
+S01010642,Inverness Merkinch,Highland,1023,637,436,314,558,738,459,5928,437,1198,1,1,2,7,Inverness,Inverness Merkinch South,6,103,312,1,63,291,1024,Inverness Merkinch South
+S01010620,"Inverness Central, Raigmore and Longman",Highland,674,569,458,668,273,336,2739,5497,2,98,1,1,2,7,Inverness,Inverness Central & Longman,7,103,312,1,63,73,646,Inverness Central & Longman
+S01010608,Inverness Drummond,Highland,699,436,535,434,646,1241,445,3317,434,2513,1,1,2,8,Inverness,Inverness Hilton West,8,103,312,1,63,194,680,Inverness Hilton West
+S01007346,Rothesay Town,Argyll and Bute,548,326,558,787,285,1382,718,6516,157,1389,1,1,2,8,Bute & Cowal,-,3,32,125,1,25,53,535,Rothesay Town
+S01010564,Nairn West,Highland,479,291,575,848,154,1233,1524,4004,822,2696,1,1,2,9,Nairn & Nairnshire,Nairn Moss-side,9,18,312,1,63,71,489,Nairn Moss-side
+S01007345,Rothesay Town,Argyll and Bute,523,310,597,340,413,761,1613,5110,3498,2267,1,1,2,9,Bute & Cowal,-,4,32,125,1,25,119,514,Rothesay Town
+S01007295,Oban South,Argyll and Bute,477,293,609,559,656,170,1498,6952,1062,1323,1,1,2,9,"Oban, Lorn & the Isles",-,5,27,125,1,25,59,471,Oban South
+S01010735,Alness,Highland,627,385,628,697,890,1485,105,3031,823,3834,1,1,2,10,East Ross,Alness Obsdale,10,30,312,1,63,214,648,Alness Obsdale
+S01010784,Wick North,Highland,704,418,659,619,911,645,393,4929,1165,1492,1,1,2,10,Caithness,Wick Hillhead North,11,38,312,1,63,202,716,Wick Hillhead North
+S01010637,Inverness Muirtown,Highland,510,369,682,659,519,853,1057,6190,1014,425,1,1,2,10,Inverness,Inverness Central North West,12,103,312,1,63,48,524,Inverness Central North West
+S01010751,Seaboard,Highland,670,388,689,821,748,1869,428,441,3910,2185,1,1,2,10,East Ross,Seaboard South,13,30,312,1,63,152,680,Seaboard South
+S01007368,Dunoon,Argyll and Bute,561,329,695,467.5,442,702,2095,5819,2495,2432,1,1,2,10,Bute & Cowal,-,6,32,125,1,25,182,569,Dunoon
+S01010614,Inverness Hilton,Highland,603,385,714,1005,1017,1005,235,2027,756,1683,1,2,3,11,Inverness,Inverness Hilton South,14,103,312,1,63,136,615,Inverness Hilton South
+S01007334,Campbeltown,Argyll and Bute,651,350,719,481,486,889,1611,6232,2566,1693,1,2,3,11,"Mid-Argyll, Kintyre & Islay",-,7,29,125,1,25,129,618,Campbeltown
+S01007336,Campbeltown,Argyll and Bute,519,321,734,889,474,1044,1521,6661,52,1354.5,1,2,3,11,"Mid-Argyll, Kintyre & Islay",-,8,29,125,1,25,77,537,Campbeltown
+S01010733,Alness,Highland,512,308,776,572,1389,991,382,4542,656,1629,1,2,3,12,East Ross,Alness Kirkside,15,30,312,1,63,150,506,Alness Kirkside
+S01010633,Inverness Ballifeary and Dalneigh,Highland,1025,624,791,751,663,1439,1533,1241,1412,1138,1,2,3,12,Inverness,Inverness Dalneigh South West,16,103,312,1,63,261,1030,Inverness Dalneigh South West
+S01010734,Alness,Highland,932,558,905,990,1365,1481,295,2671,848,2562,1,2,3,13,East Ross,Alness Teaninich,17,30,312,1,63,255,931,Alness Teaninich
+S01010777,Wick South,Highland,527,301,912,1270,730,1156,524,6073,650,3800,1,2,3,14,Caithness,Wick South Head,18,38,312,1,63,97,521,Wick South Head
+S01010523,Fort William South,Highland,578,352,941,1077,1678.5,1617,247,1299,1200,2784,1,2,3,14,Lochaber,Fort William North,19,27,312,1,63,172,592,Fort William North
+S01010639,Inverness Muirtown,Highland,1130,771,972,1464,788,1209,660,6480,327,933,1,2,3,14,Inverness,Inverness Merkinch Telford,20,103,312,1,63,214,1129,Inverness Merkinch Telford
+S01010732,Alness,Highland,768,477,999,908,1360,1120,987,1920,1296,1469,1,2,3,15,East Ross,Alness Firhill,21,30,312,1,63,176,761,Alness Firhill
+S01010779,Wick South,Highland,706,436,1004,919,1116,1743,692,4468,423,3520,1,2,3,15,Caithness,Wick South,22,38,312,1,63,163,705,Wick South
+S01007347,Rothesay Town,Argyll and Bute,551,309,1005,923,561,1494,1627,5350,1972,2921,1,2,3,15,Bute & Cowal,-,9,32,125,1,25,87,602,Rothesay Town
+S01007364,Hunter's Quay,Argyll and Bute,800,492,1015,624.5,1024,1105,1237,5898,3950,1425,1,2,3,15,Bute & Cowal,-,10,32,125,1,25,197,801,Hunter's Quay
+S01007350,Rothesay Town,Argyll and Bute,553,309,1039,583.5,913,1902,1826,6204,891,1955,1,2,3,15,Bute & Cowal,-,11,32,125,1,25,66,543,Rothesay Town
+S01010622,"Inverness Central, Raigmore and Longman",Highland,653,411,1096,1002,1048,1378,1646,1578,2772,1314,1,2,4,16,Inverness,Inverness Raigmore North,23,103,312,1,63,162,646,Inverness Raigmore North
+S01010743,Invergordon,Highland,702,442,1099,736,1569,2171,739,3557,743,2165,1,2,4,16,East Ross,Invergordon Castle Avenue,24,30,312,1,63,210,705,Invergordon Castle Avenue
+S01010522,Fort William South,Highland,578,381,1129,1434,1391,627,2519,2862,45,1152,1,2,4,17,Lochaber,Fort William Central,25,27,312,1,63,97,582,Fort William Central
+S01010714,Dingwall,Highland,721,439,1132,1136.5,1189,1306,1636,2505,403,2648,1,2,4,17,Mid Ross,Dingwall Central,26,33,312,1,63,111,670,Dingwall Central
+S01007398,Helensburgh East,Argyll and Bute,638,421,1192,1071,1269,951,1254,2704,3547,2462,1,2,4,18,Helensburgh & Lomond,-,12,37,125,1,25,173,635,Helensburgh East
+S01010650,Inverness Kinmylies and South West,Highland,1134,799,1220,1476,925,1501,3646,669,809,2271,1,2,4,18,Inverness,Inverness West,27,103,312,1,63,295,1224,Inverness West
+S01010635,Inverness Ballifeary and Dalneigh,Highland,769,456,1225,1347,1425,1286,880,3091,812,1545,1,2,4,18,Inverness,Inverness Dalneigh Central,28,103,312,1,63,169,787,Inverness Dalneigh Central
+S01007395,Helensburgh Centre,Argyll and Bute,722,491,1346,1402,1369,1243,1830,6916,152,1139,1,2,4,20,Helensburgh & Lomond,-,13,37,125,1,25,79,715,Helensburgh Centre
+S01010747,Seaboard,Highland,825,494,1369,1718,1498,2919,751,666,2394,4130,1,2,4,20,East Ross,Milton & Kildary,29,30,312,1,63,171,821,Milton & Kildary
+S01010589,Inverness Westhill,Highland,565,417,1387,1533,1422,1834,1518,1056,2731,1592,1,2,4,20,Inverness,Inverness Inshes Wood,30,103,312,1,63,90,557,Inverness Inshes Wood
+S01010619,"Inverness Central, Raigmore and Longman",Highland,619,462,1400,1520,1820,2535,937,4652,84,439,2,3,5,21,Inverness,Inverness Central & Longman,31,103,312,1,63,124,614,Inverness Central & Longman
+S01010774,Caithness South,Highland,683,373,1416,1706,927,2653,1677,980,4492,4492,2,3,5,21,Caithness,Lybster,32,38,312,1,63,140,677,Lybster
+S01010806,Thurso West,Highland,863,557,1422,1336,1049,1601,2493,3477,1504,3194,2,3,5,21,Caithness,Thurso High and Low Ormlie,33,38,312,1,63,175,857,Thurso High and Low Ormlie
+S01007367,Dunoon,Argyll and Bute,555,304,1431,1072,1007,1978,2659,6784,1041,2385,2,3,5,21,Bute & Cowal,-,14,32,125,1,25,91,513,Dunoon
+S01010803,Thurso West,Highland,562,319,1439,1477.5,1336,1731,1182,5836,658,3587.5,2,3,5,21,Caithness,Thruso North West,34,38,312,1,63,122,562,Thruso North West
+S01010577,Inverness Smithton,Highland,894,556,1476,1512,1961,1554,1133,2949,920,1638,2,3,5,22,Inverness,Smithton South,35,103,312,1,63,242,888,Smithton South
+S01010745,Invergordon,Highland,545,316,1540,2098,884,2834,1762,6219,220,2482,2,3,5,23,East Ross,Invergordon Central,36,30,312,1,63,87,574,Invergordon Central
+S01010782,Wick North,Highland,602,349,1555,1539,1952,1654,1499,6588,94,2096,2,3,5,23,Caithness,Wick Central North,37,38,312,1,63,109,611,Wick Central North
+S01007296,Oban South,Argyll and Bute,544,390,1585,2625.5,1373.5,1703,1198,6581,160,493,2,3,5,23,"Oban, Lorn & the Isles",-,15,27,125,1,25,57,535,Oban South
+S01010753,Tain,Highland,1086,656,1604,1743,1081,2178,2161,2818,1853,4634,2,3,5,23,East Ross,Tain South Rural,38,30,312,1,63,262,1071,Tain South Rural
+S01010609,Inverness Drummond,Highland,559,344,1612,1632,2057,2035,1038,2390,1299,2489,2,3,5,24,Inverness,Inverness Hilton South West,39,103,312,1,63,138,561,Inverness Hilton South West
+S01007370,Dunoon,Argyll and Bute,657,430,1634,1741,958,2304,2977,6826,435,1728,2,3,5,24,Bute & Cowal,-,16,32,125,1,25,102,662,Dunoon
+S01007340,Bute,Argyll and Bute,481,258,1705,1504,1125,2878,3264,1244,5431,3641,2,3,5,25,Bute & Cowal,-,17,32,125,1,25,75,485,Bute
+S01010556,Nairn East,Highland,1016,545,1760,1554,1642,1585,1787,6499,1448,2901,2,3,6,26,Nairn & Nairnshire,Nairn South,40,18,312,1,63,243,1030,Nairn South
+S01007349,Rothesay Town,Argyll and Bute,479,251,1800,1133,1370,3118,1855,6072,3874,5231,2,3,6,26,Bute & Cowal,-,18,32,125,1,25,144,470,Rothesay Town
+S01007316,Greater Lochgilphead,Argyll and Bute,766,450,1803,1825,974,1775,3832,5953,1447,3290.5,2,3,6,26,"Mid-Argyll, Kintyre & Islay",-,19,29,125,1,25,127,761,Greater Lochgilphead
+S01007376,Garelochhead,Argyll and Bute,839,510,1814,1596,1479,2616,2137,2595,3509,1897,2,3,6,27,Helensburgh & Lomond,-,20,37,125,1,25,188,845,Garelochhead
+S01010792,Caithness North West,Highland,595,373,1838,1761,1456,2024,2002,4355,2025,3123,2,3,6,27,Caithness,Castletown,41,38,312,1,63,111,565,Castletown
+S01007335,Campbeltown,Argyll and Bute,704,392,1876,1572,1643.5,2520,2009,4122,1755,2459,2,3,6,27,"Mid-Argyll, Kintyre & Islay",-,21,29,125,1,25,169,753,Campbeltown
+S01010634,Inverness Ballifeary and Dalneigh,Highland,633,403,1887,1942,2859,2864,505,2857,1496,2502,2,3,6,28,Inverness,Inverness Dalneigh West,42,103,312,1,63,141,636,Inverness Dalneigh West
+S01010624,"Inverness Central, Raigmore and Longman",Highland,630,445,1895,3055,3332,1584,845,1052,476,1755.5,2,3,6,28,Inverness,Inverness Raigmore South,43,103,312,1,63,154,643,Inverness Raigmore South
+S01010630,Inverness Ballifeary and Dalneigh,Highland,616,372,1920,1805,2039,2345,1313,3374,1979,3409,2,3,6,28,Inverness,Inverness Ballifeary,44,103,312,1,63,150,624,Inverness Ballifeary
+S01010632,Inverness Ballifeary and Dalneigh,Highland,921,582,1922,1460,2178,1870,2050,3508,2462,2825,2,3,6,28,Inverness,Inverness Dalneigh South,45,103,312,1,63,148,885,Inverness Dalneigh South
+S01010754,Tain,Highland,626,353,1926,1646,1197,2517,3720,5456,1371,2456,2,3,6,28,East Ross,Tain Academy,46,30,312,1,63,114,622,Tain Academy
+S01007348,Rothesay Town,Argyll and Bute,525,306,1945,1616,1358,1805,2823,5890,4460,2443.5,2,3,6,28,Bute & Cowal,-,22,32,125,1,25,121,541,Rothesay Town
+S01010638,Inverness Muirtown,Highland,830,492,1961,2093,2255,1405,2316,5397,267,1972,2,3,6,29,Inverness,Inverness Dalneigh North,47,103,312,1,63,97,778,Inverness Dalneigh North
+S01010783,Wick North,Highland,562,360,1976,1679,1870,2048,1614,5992,2172,4069,2,3,6,29,Caithness,Wick North Primary School,48,38,312,1,63,111,548,Wick North Primary School
+S01007369,Dunoon,Argyll and Bute,693,406,1984,1969,1293,1862,2679,6181,2320,3928,2,3,6,29,Bute & Cowal,-,23,32,125,1,25,154,696,Dunoon
+S01010710,Conon,Highland,779,437,2028,2360,2260,2770,1529,925,3470,1794,2,3,6,30,Mid Ross,Conon North,49,33,312,1,63,213,764,Conon North
+S01010570,Inverness East Rural,Highland,1067,657,2064,1671,2700,2926,963,2711,4295,2916,2,3,6,30,Inverness,Ardersier,50,103,312,1,63,238,1082,Ardersier
+S01007396,Helensburgh Centre,Argyll and Bute,733,430,2081,1684,1335,2603,3961,6587,1497,2213,2,3,6,30,Helensburgh & Lomond,-,24,37,125,1,25,116,695,Helensburgh Centre
+S01010716,Dingwall,Highland,851,525,2103,2529,2560,2741,1084,3378,568,1799,2,4,7,31,Mid Ross,Dingwall South East,51,33,312,1,63,129,827,Dingwall South East
+S01010742,Invergordon,Highland,721,455,2162,2575,2336,2697,1633,4094,300,1818,2,4,7,31,East Ross,Invergordon Cromlet,52,30,312,1,63,154,724,Invergordon Cromlet
+S01007293,Oban South,Argyll and Bute,747,471,2166,2079,2662,3140,1346,1827,2383,2575,2,4,7,32,"Oban, Lorn & the Isles",-,25,27,125,1,25,216,726,Oban South
+S01010651,Inverness Kinmylies and South West,Highland,659,426,2189,2319,1698,2140,2329,3004,4386,4214,2,4,7,32,Inverness,Inverness Kinmylies South,53,103,312,1,63,137,647,Inverness Kinmylies South
+S01010712,Dingwall,Highland,710,475,2190,2423.5,2809,2513,1561,1307,1666,5027,2,4,7,32,Mid Ross,Dingwall West,54,33,312,1,63,166,710,Dingwall West
+S01010611,Inverness Hilton,Highland,948,615,2212,2111,2705,2838,1122,3440,2929,1302,2,4,7,32,Inverness,Inverness Hilton East,55,103,312,1,63,171,897,Inverness Hilton East
+S01010771,Sutherland East,Highland,832,453,2216,2452,2501,3097,3024,242,5400,4241,2,4,7,32,Sutherland,Helmsdale & Kinbrace,56,20,312,1,63,132,876,Helmsdale & Kinbrace
+S01010767,Sutherland East,Highland,653,371,2220,2241,1705,2574,2396,2819,4672,3961,2,4,7,32,Sutherland,Brora North,57,20,312,1,63,112,636,Brora North
+S01010737,Alness,Highland,1160,671,2224,2167,1954,2457,2007,5283,1440,5149.5,2,4,7,32,East Ross,Alness Dalmore,58,30,312,1,63,202,1151,Alness Dalmore
+S01007359,Hunter's Quay,Argyll and Bute,812,474,2277,2221,2107,2036,2900,2720,3037,3747,2,4,7,33,Bute & Cowal,-,26,32,125,2,25,162,795,Hunter's Quay
+S01007300,Oban North,Argyll and Bute,503,353,2279,2819,2357,1694,2179,2018,4340,1215,2,4,7,33,"Oban, Lorn & the Isles",-,27,27,125,2,25,88,480,Oban North
+S01010527,Lochaber East and North,Highland,802,477,2290,1974,1774,2540,3897,3814,2548,2745,2,4,7,33,Lochaber,Kinlochleven,59,27,312,1,63,132,773,Kinlochleven
+S01010772,Caithness South,Highland,762,439,2298,3379,2080,3563,2924,176,5818,4733.5,2,4,7,33,Caithness,Dunbeath,60,38,312,1,63,97,763,Dunbeath
+S01010801,Thurso East,Highland,658,399,2334,2524.5,2077,2490,2577,4559,649,6233,2,4,7,34,Caithness,Thurso Springpark,61,38,312,1,63,111,661,Thurso Springpark
+S01010678,Skye North East,Highland,678,442,2344,3210,3066,3208,3801,51,3484,2625,2,4,7,34,"Skye, Lochalsh and West Ross",Skye North East,62,26,312,1,63,109,676,Skye North East
+S01010770,Sutherland East,Highland,745,441,2347,2848,1461,2732,3436,2158,3967,5413,2,4,7,34,Sutherland,Golspie North,63,20,312,1,63,123,767,Golspie North
+S01010613,Inverness Hilton,Highland,735,419,2362,1994,2644,1936,1910,5413,3503,3546,2,4,7,34,Inverness,Inverness Hilton North East,64,103,312,2,62,139,722,Inverness Hilton North East
+S01010739,Alness,Highland,836,511,2387,2169,2166,2789,2540,3888,2198,4490.5,2,4,7,35,East Ross,Alness Coulhill,65,30,312,2,62,153,818,Alness Coulhill
+S01010680,Skye North East,Highland,635,360,2400,2082,2156,2482,3060,4692,1805,4228,2,4,7,35,"Skye, Lochalsh and West Ross",Portree West,66,26,312,2,62,106,621,Portree West
+S01007291,Oban South,Argyll and Bute,653,391,2402,2297,2299,1845,3705,5327,1152,1593,2,4,7,35,"Oban, Lorn & the Isles",-,28,27,125,2,25,105,642,Oban South
+S01010704,Muir of Ord,Highland,615,350,2410,2346,1953,2528,3059,3101,3688,3794,2,4,7,35,Mid Ross,Muir of Ord South East,67,33,312,2,62,120,603,Muir of Ord South East
+S01010672,Lochalsh,Highland,635,409,2419,2063,2290,2534,2470,5828,2066,2956,2,4,7,35,"Skye, Lochalsh and West Ross",Kyle of Lochalsh,68,26,312,2,62,132,620,Kyle of Lochalsh
+S01010580,Inverness Smithton,Highland,531,393,2429,2682,2381,2027,2423,2935,2980,2735,2,4,7,35,Inverness,Smithton North East,69,103,312,2,62,69,507,Smithton North East
+S01007337,Campbeltown,Argyll and Bute,583,339,2439,1757,2109,2354,2882,6475,5746,3177,2,4,7,35,"Mid-Argyll, Kintyre & Islay",-,29,29,125,2,25,66,567,Campbeltown
+S01007379,Garelochhead,Argyll and Bute,472,289,2461,2831,2903,2667,996,3335,3186,3983,2,4,8,36,Helensburgh & Lomond,-,30,37,125,2,25,108,485,Garelochhead
+S01010631,Inverness Ballifeary and Dalneigh,Highland,552,340,2583,2710,3067,3202,2414,3902,312,1676,2,4,8,38,Inverness,Inverness Ballifeary,70,103,312,2,62,73,530,Inverness Ballifeary
+S01010799,Thurso East,Highland,791,488,2601,2588,2201,2829,3529,6579,410,3640,2,4,8,38,Caithness,Thurso Central,71,38,312,2,62,73,808,Thurso Central
+S01007355,Cowal North,Argyll and Bute,892,477,2617,3380,3349,3794,3164,126,3687,3802,2,4,8,38,Bute & Cowal,-,31,32,125,2,25,97,854,Cowal North
+S01010685,Skye North West,Highland,580,352,2627,3701,3671,3734,3005,35,5733,2090,2,4,8,38,"Skye, Lochalsh and West Ross",Duirinish,72,26,312,2,62,56,594,Duirinish
+S01010654,Inverness Kinmylies and South West,Highland,772,498,2636,2990,2707,2706,1413,3294,4049,3412,2,4,8,38,Inverness,Inverness Kinmylies North,73,103,312,2,62,170,755,Inverness Kinmylies North
+S01010780,Wick South,Highland,569,349,2649,2253,3008,2437,2293,5073,1543,5594,2,4,8,38,Caithness,Wick South West,74,38,312,2,62,109,567,Wick South West
+S01007302,Benderloch Trail,Argyll and Bute,608,395,2659,2858,3362,2562,2200,1530,2753,2417,2,4,8,39,"Oban, Lorn & the Isles",-,32,27,125,2,25,106,593,Benderloch Trail
+S01010813,Sutherland North and West,Highland,494,300,2660,3737,3238.5,3720,3377,121,5058,916,2,4,8,39,Sutherland,Lochinver & Elphin,75,20,312,2,62,65,476,Lochinver & Elphin
+S01007317,Greater Lochgilphead,Argyll and Bute,735,478,2661,2942,2901,2731,3647,1324,1767,1343,2,4,8,39,"Mid-Argyll, Kintyre & Islay",-,33,29,125,2,25,178,764,Greater Lochgilphead
+S01010706,Muir of Ord,Highland,768,450,2668,2758,2825,2617,2216,2876,2443,3749,2,4,8,39,Mid Ross,Muir of Ord South East,76,33,312,2,62,191,810,Muir of Ord South East
+S01010640,Inverness Muirtown,Highland,714,543,2680,2996,2365,3352,3672,5648,295,489.5,2,4,8,39,Inverness,Inverness Central West,77,103,312,2,62,69,681,Inverness Central West
+S01010578,Inverness Smithton,Highland,536,383,2702,2824,2478.5,2387,2310,2973,5618,4242,2,4,8,39,Inverness,Smithton West,78,103,312,2,62,85,520,Smithton West
+S01010557,Nairn East,Highland,628,386,2706,2954.5,2993,4116,2332,864,3017,3707.5,2,4,8,39,Nairn & Nairnshire,Nairn Boath Park,79,18,312,2,62,100,621,Nairn Boath Park
+S01007327,Whisky Isles,Argyll and Bute,654,389,2716,2959.5,2309,1534,3018,5943,3858,2525,2,4,8,39,"Mid-Argyll, Kintyre & Islay",-,34,29,125,2,25,101,656,Whisky Isles
+S01010656,Inverness West Rural,Highland,594,359,2738,2953,3021,2696,3652,649,4757,4511,2,4,8,40,Inverness,Kiltarlity,80,103,312,2,62,171,657,Kiltarlity
+S01010521,Fort William South,Highland,766,484,2757,3485,3074,2515,2237,2303,1233,2618,2,4,8,40,Lochaber,Glen Nevis,81,27,312,2,62,172,804,Glen Nevis
+S01010698,Ross and Cromarty Central,Highland,817,502,2773,3150,4240,4966,2785,42,5921,3386,2,4,8,40,Mid Ross,"Garve, Achnasheen & Kinlochewe",82,33,312,2,62,174,838,"Garve, Achnasheen & Kinlochewe"
+S01010673,Skye South,Highland,944,596,2784,3202,3221,3095,2777,983,2639,1968,2,4,8,40,"Skye, Lochalsh and West Ross",Broadford,83,26,312,2,62,151,971,Broadford
+S01010511,Fort William North,Highland,860,518,2787,3095,3304,2190,1573,3131,4321,2272,2,4,8,40,Lochaber,Caol South East,84,27,312,2,62,226,878,Caol South East
+S01007318,Greater Lochgilphead,Argyll and Bute,580,332,2800,2887,2427,3420,4202,932,4363,4966,3,5,9,41,"Mid-Argyll, Kintyre & Islay",-,35,29,125,2,25,135,575,Greater Lochgilphead
+S01010752,Tain,Highland,787,470,2818,2422,2877,3284,1907,4717,3703,2846,3,5,9,41,East Ross,Tain South East,85,30,312,2,62,226,807,Tain South East
+S01010715,Dingwall,Highland,727,464,2832,2694,3290,3181,2173,2301,2430,4286.5,3,5,9,41,Mid Ross,Dingwall South West,86,33,312,2,62,127,703,Dingwall South West
+S01010563,Nairn West,Highland,517,327,2837,2298,3089,2793,2449,4730,2926,2666,3,5,9,41,Nairn & Nairnshire,Nairn Academy,87,18,312,2,62,120,512,Nairn Academy
+S01010800,Thurso East,Highland,670,417,2838,3078,2788,2921,1834,3844,2204,5362,3,5,9,41,Caithness,Thurso Mountpleasant,88,38,312,2,62,114,661,Thurso Mountpleasant
+S01010776,Wick South,Highland,532,338,2845,2991,3139,2686,1153,6563,2374,5252,3,5,9,41,Caithness,Wick Pultneytown North,89,38,312,2,62,92,514,Wick Pultneytown North
+S01010565,Nairn West,Highland,589,347,2847,2541,2466,2790,3306,3027,5043.5,4284,3,5,9,41,Nairn & Nairnshire,Nairn Sandown,90,18,312,2,62,113,592,Nairn Sandown
+S01007356,Cowal North,Argyll and Bute,647,345,2865,3317,2484,3359,4592,609,5911,2094,3,5,9,42,Bute & Cowal,-,36,32,125,2,25,70,652,Cowal North
+S01010812,Sutherland North and West,Highland,438,262,2869,3549,3981.5,4847,3356,65,4374,1860,3,5,9,42,Sutherland,Durness,91,20,312,2,62,62,439,Durness
+S01007344,Rothesay Town,Argyll and Bute,443,239,2884,1987,2277,3255,4343,5459,4013,3957,3,5,9,42,Bute & Cowal,-,37,32,125,2,25,70,448,Rothesay Town
+S01010750,Seaboard,Highland,603,332,2890,4094,3235,3717,3433,87,6760,5859.5,3,5,9,42,East Ross,Seaboard North,92,30,312,2,62,84,599,Seaboard North
+S01010789,Caithness North East,Highland,692,397,2904,3934,3419,3983,2687,153,6295,5550.5,3,5,9,42,Caithness,Keiss & Lyth,93,38,312,2,62,130,675,Keiss & Lyth
+S01010773,Caithness South,Highland,749,425,2916,3456,2683,4099,4049,369,5504,4436,3,5,9,42,Caithness,Thrumster & Clyth,94,38,312,2,62,116,755,Thrumster & Clyth
+S01007408,Lomond Shore,Argyll and Bute,500,304,2917,3005,3102,3109,3602,949,4318,2881,3,5,9,42,Helensburgh & Lomond,-,38,37,125,2,25,106,507,Lomond Shore
+S01010665,Loch Ness,Highland,981,600,2924,3520,4349,4711,3315,45,4469,3199,3,5,9,42,Inverness,Loch Ness East,95,103,312,2,62,186,998,Loch Ness East
+S01007330,Kintyre Trail,Argyll and Bute,713,386,2932,3073,2660,4081,4779,465,5404,4367,3,5,9,43,"Mid-Argyll, Kintyre & Islay",-,39,29,125,2,25,84,708,Kintyre Trail
+S01010787,Caithness North East,Highland,845,478,2933,3814,2875,4108,3041,353,5691,4118,3,5,9,43,Caithness,Watten,96,38,312,2,62,158,816,Watten
+S01010573,Inverness Culloden and Balloch,Highland,508,336,2965,2719,2870,3167,1913,5365,3714,3113,3,5,9,43,Inverness,Culloden Walker Crescent,97,103,312,2,62,107,505,Culloden Walker Crescent
+S01007365,Hunter's Quay,Argyll and Bute,444,252,2985,2612,2594,3045,2378,6760,4425,1982,3,5,9,43,Bute & Cowal,-,40,32,125,2,25,81,444,Hunter's Quay
+S01010572,Inverness Culloden and Balloch,Highland,734,460,3000,3050,2857,2444,2405,6675,2083,2368,3,5,9,44,Inverness,Culloden Alltan,98,103,312,2,62,177,713,Culloden Alltan
+S01010768,Sutherland East,Highland,547,292,3021,2216,3096,3265,3564,3212,3902,4101,3,5,9,44,Sutherland,Brora South,99,20,312,2,62,93,545,Brora South
+S01010759,Sutherland South,Highland,577,342,3035,2716,3299,3286,2699,2576,3236,3351,3,5,9,44,Sutherland,Dornoch East,100,20,312,2,62,98,559,Dornoch East
+S01010648,Inverness Scorguie,Highland,606,412,3042,3218,2490.5,3250,3381,3779,1584,4014,3,5,9,44,Inverness,Inverness Scorguie East,101,103,312,2,62,88,602,Inverness Scorguie East
+S01010814,Sutherland North and West,Highland,589,381,3052,4502,4874,4437,2534,2,5757,3384,3,5,9,44,Sutherland,Stoer & Scourie,102,20,312,2,62,70,579,Stoer & Scourie
+S01007284,"Mull, Iona, Coll and Tiree",Argyll and Bute,795,454,3054,4192,4066,4346,4099,30,4609,2552,3,5,9,44,"Oban, Lorn & the Isles",-,41,27,125,2,25,135,782,"Mull, Iona, Coll and Tiree"
+S01010505,Lochaber West,Highland,513,306,3055,3861,3291,5107,6196,33,4390,2776,3,5,9,44,Lochaber,Moidart,103,27,312,2,62,84,508,Moidart
+S01010660,Inverness West Rural,Highland,695,423,3068,2250,2820,3869,2203,6478,4250,6049,3,5,9,44,Inverness,Beauly West,104,103,312,2,62,129,684,Beauly West
+S01010558,Nairn East,Highland,788,453,3077,3263,2612,3681,3138,2156,3134,4155,3,5,9,45,Nairn & Nairnshire,Nairn Lochloy,105,18,312,2,62,126,778,Nairn Lochloy
+S01010802,Thurso East,Highland,489,317,3084,3049,2416,3807,3598,2758,2502,6192.5,3,5,9,45,Caithness,Thurso Mountvernon,106,38,312,2,62,78,487,Thurso Mountvernon
+S01010515,Fort William North,Highland,780,472,3094,3457,3307,2801,2116,2623,3280,3366,3,5,9,45,Lochaber,Caol North East,107,27,312,2,62,164,778,Caol North East
+S01010681,Skye North East,Highland,1186,767,3096,3143,3045,2799,2962,2956,2968,2993,3,5,9,45,"Skye, Lochalsh and West Ross",Portree North,108,26,312,2,62,268,1173,Portree North
+S01010517,Fort William South,Highland,832,551,3099,3173.5,3568,4002,2121,1595,3669,2183,3,5,9,45,Lochaber,Fort William Argyll Road,109,27,312,2,62,162,825,Fort William Argyll Road
+S01010757,Sutherland South,Highland,729,409,3104,3850,3272,5201,5303,31,6601,5535,3,5,9,45,Sutherland,Rosehall,110,20,312,2,62,69,713,Rosehall
+S01010790,Caithness North East,Highland,634,364,3110,3563,3977,2806,3280,415,5536,6264,3,5,9,45,Caithness,John o' Groats,111,38,312,2,62,122,635,John o' Groats
+S01010528,Lochaber East and North,Highland,629,392,3118,3761,3848,4937,3649,102,6192,3010,3,5,9,45,Lochaber,Glen Spean & Kinlochlaggan,112,27,312,2,62,126,633,Glen Spean & Kinlochlaggan
+S01010763,Sutherland South,Highland,643,379,3122,2868,3392,4448,2974,827,6538,4720,3,5,9,45,Sutherland,Bonar Bridge,113,20,312,2,62,109,654,Bonar Bridge
+S01010674,Skye South,Highland,941,576,3127,3837,3842,4728,2849,374,3171,1901,3,5,9,45,"Skye, Lochalsh and West Ross",Skye South East,114,26,312,2,62,167,946,Skye South East
+S01010707,Conon,Highland,898,533,3130,3766,3625,4709,3861,235,2773,5159,3,5,9,45,Mid Ross,Conon Rural,115,33,312,2,62,193,969,Conon Rural
+S01010606,Inverness Drummond,Highland,810,515,3138,2544,3585,3283,2104,5452,2741,2947,3,5,9,45,Inverness,Inverness Hilton North,116,103,312,2,62,159,799,Inverness Hilton North
+S01010810,Sutherland North and West,Highland,499,279,3147,3907,4044,4426,4082,59,6355,3861.5,3,5,10,46,Sutherland,Melvich,117,20,312,2,62,72,487,Melvich
+S01010555,Nairn East,Highland,867,615,3161,3187,2957,3812,3957,6297,238,1414,3,5,10,46,Nairn & Nairnshire,Nairn Central,118,18,312,2,62,148,884,Nairn Central
+S01010686,Ross and Cromarty South West,Highland,681,428,3162,4027,3796.5,5945,3851,56,5025,2781,3,5,10,46,"Skye, Lochalsh and West Ross",Poolewe & Badachro,119,26,312,2,62,90,699,Poolewe & Badachro
+S01007308,Loch Awe,Argyll and Bute,727,440,3166,3971,4771,4540,3960,43,3269,3567,3,5,10,46,"Oban, Lorn & the Isles",-,42,27,125,2,25,114,726,Loch Awe
+S01010661,Inverness West Rural,Highland,588,345,3168,2379.5,2476,3298,3867,6598,4093,4043,3,5,10,46,Inverness,Beauly East,120,103,312,2,62,88,570,Beauly East
+S01007363,Hunter's Quay,Argyll and Bute,681,319,3183,2896,2454,3227,4173,5219,2130,3990,3,5,10,46,Bute & Cowal,-,43,32,125,2,25,93,672,Hunter's Quay
+S01010765,Sutherland South,Highland,972,528,3194,2777,3245,5137,3799,775,5909,4000,3,5,10,46,Sutherland,Lairg,121,20,312,2,62,155,988,Lairg
+S01010610,Inverness Drummond,Highland,632,365,3220,4270,1855,4742,4962,1482,2186,5960,3,5,10,47,Inverness,Inverness Lower Drummond,122,103,312,2,62,72,645,Inverness Lower Drummond
+S01010738,Alness,Highland,581,343,3275,2666,3034,3531,2901,3868,5366,4132,3,5,10,47,East Ross,Alness Shillinghill,123,30,312,2,62,109,587,Alness Shillinghill
+S01007351,Cowal South,Argyll and Bute,656,364,3286,3650,2340,4330,4505,1274,6246,2443.5,3,5,10,48,Bute & Cowal,-,44,32,125,2,25,69,643,Cowal South
+S01010519,Fort William South,Highland,790,501,3296,4224,4371,4284,1740,650,4331,1879,3,5,10,48,Lochaber,Fort William Upper Achintore,124,27,312,2,62,215,772,Fort William Upper Achintore
+S01007371,Dunoon,Argyll and Bute,605,389,3299,3298.5,2558,2675,3497,5490,3896,2886,3,5,10,48,Bute & Cowal,-,45,32,125,2,25,101,604,Dunoon
+S01010615,Inverness Hilton,Highland,806,554,3328,3600,3078,3901,3285,2611,1556,2722,3,5,10,48,Inverness,Inverness Castle Heather North,125,103,312,2,62,169,787,Inverness Castle Heather North
+S01010512,Fort William North,Highland,584,355,3333,3087,4078,3341,3292,1210,4071,4035,3,5,10,48,Lochaber,Corpach West,126,27,312,3,63,123,591,Corpach West
+S01007290,Oban South,Argyll and Bute,1028,671,3343,3582,3714,3222,2528,2519,2796,1732,3,5,10,48,"Oban, Lorn & the Isles",-,46,27,125,2,25,307,1042,Oban South
+S01010652,Inverness Kinmylies and South West,Highland,833,562,3345,3405,3232,4078,2817,1496,5171,4825,3,5,10,48,Inverness,Inverness West,127,103,312,3,63,168,852,Inverness West
+S01007362,Hunter's Quay,Argyll and Bute,724,387,3352,3045,2682,2640,3730,5557,4358,4253,3,5,10,49,Bute & Cowal,-,47,32,125,2,25,107,717,Hunter's Quay
+S01010683,Skye North West,Highland,965,559,3355,4239,4684,4725,4160,29,5432,4018,3,5,10,49,"Skye, Lochalsh and West Ross",Uig,128,26,312,3,63,170,989,Uig
+S01010794,Caithness North West,Highland,617,418,3376,3809,3736,4414,2734,638,5142,4972,3,5,10,49,Caithness,Thurso Rural,129,38,312,3,63,113,590,Thurso Rural
+S01010536,Badenoch and Strathspey Central,Highland,860,519,3377,2744.5,3372,3879,2256,4982,5232,2359.5,3,5,10,49,Badenoch and Strathspey,Aviemore Central,130,17,312,3,63,168,869,Aviemore Central
+S01007352,Cowal South,Argyll and Bute,526,287,3390,4654,4644.5,5240,3839,7,6928,2231,3,5,10,49,Bute & Cowal,-,48,32,125,2,25,86,553,Cowal South
+S01007303,Benderloch Trail,Argyll and Bute,989,575,3393,3989,4095,3532,4860,202,6707,2510,3,5,10,49,"Oban, Lorn & the Isles",-,49,27,125,2,25,187,993,Benderloch Trail
+S01010627,Inverness Crown and Haugh,Highland,726,481,3397,3775,3742,3615,3684,3726,247,1874,3,5,10,49,Inverness,Inverness Haugh West,131,103,312,3,63,100,722,Inverness Haugh West
+S01007310,Loch Awe,Argyll and Bute,815,461,3416,4038,5010.5,5344,4536,10,6647,2002,3,5,10,49,"Oban, Lorn & the Isles",-,50,27,125,2,25,104,832,Loch Awe
+S01007389,Helensburgh North,Argyll and Bute,564,356,3429,3410,3945,3413,2975,1653,3173,4008,3,5,10,50,Helensburgh & Lomond,-,51,37,125,3,25,177,531,Helensburgh North
+S01007304,Benderloch Trail,Argyll and Bute,677,397,3434,4589,5079,5498,3371,3,6928,2704.5,3,5,10,50,"Oban, Lorn & the Isles",-,52,27,125,3,25,90,648,Benderloch Trail
+S01007329,Kintyre Trail,Argyll and Bute,677,397,3439,3924.5,4393.5,5041,3717,195,4758,2850,3,5,10,50,"Mid-Argyll, Kintyre & Islay",-,53,29,125,3,25,132,686,Kintyre Trail
+S01010543,Badenoch and Strathspey North,Highland,598,373,3447,4142,4705,5797,1813,338,5414,3482,3,5,10,50,Badenoch and Strathspey,Grantown West Rural,132,17,312,3,63,106,600,Grantown West Rural
+S01010762,Sutherland South,Highland,638,385,3465,3665,4074,4656,4886,183,6530,4365,3,5,10,50,East Ross,Edderton,133,30,312,3,63,89,626,Edderton
+S01010748,Seaboard,Highland,623,366,3472,4947,3995,5733,2035,258,6180,3446,3,5,10,50,East Ross,Portmahomack,134,30,312,3,63,95,640,Portmahomack
+S01010746,Seaboard,Highland,1017,630,3475,3638,4103,4877,3904,360,4018,5718,3,5,10,50,East Ross,Nigg & Fearn,135,30,312,3,63,199,1016,Nigg & Fearn
+S01007343,Bute,Argyll and Bute,614,365,3483,4726,3739.5,4253,4630,247,3193,3040,3,5,10,50,Bute & Cowal,-,54,32,125,3,25,57,600,Bute
+S01010689,Ross and Cromarty South West,Highland,795,392,3486,4642,4226,4936,3931,92,4601,5387,3,5,10,50,"Skye, Lochalsh and West Ross",Lochcarron,136,26,312,3,63,105,784,Lochcarron
+S01010811,Sutherland North and West,Highland,851,521,3491,4023,4006,4950,4652,148,6215,3621,3,6,11,51,Sutherland,"Tongue, Bettyhill & Altnaharra",137,20,312,3,63,123,817,"Tongue, Bettyhill & Altnaharra"
+S01007400,Helensburgh East,Argyll and Bute,685,396,3511,2737,3253,2999,4595,4640,3085,3857,3,6,11,51,Helensburgh & Lomond,-,55,37,125,3,25,125,705,Helensburgh East
+S01010584,Inverness Westhill,Highland,989,656,3514,3268,3807,3654,4242,1076,3954,5704,3,6,11,51,Inverness,Westhill East,138,103,312,3,63,275,1005,Westhill East
+S01010798,Caithness North West,Highland,638,367,3528,4235,4050,4874,3757,205,5548,5374,3,6,11,51,Caithness,Reay,139,38,312,3,63,96,593,Reay
+S01007390,Helensburgh North,Argyll and Bute,539,353,3531,2932,3583.5,4061,3624,2938,2580,3918,3,6,11,51,Helensburgh & Lomond,-,56,37,125,3,25,160,498,Helensburgh North
+S01007299,Oban North,Argyll and Bute,829,547,3533,4210,3641,3671,2558,3035,1703,1102,3,6,11,51,"Oban, Lorn & the Isles",-,57,27,125,3,25,129,807,Oban North
+S01010697,Ross and Cromarty Central,Highland,1128,682,3538,4141,3755,4402,4658,272,5136,5431,3,6,11,51,Mid Ross,Strathconon,140,33,312,3,63,199,1131,Strathconon
+S01010525,Lochaber East and North,Highland,643,395,3540,4645.5,4057,5324,4416,279,1196,4773,3,6,11,51,Lochaber,Glencoe,141,27,312,3,63,104,647,Glencoe
+S01010708,Conon,Highland,551,357,3543,4163,3465,3406,3687,1034,4576,3805,3,6,11,51,Mid Ross,Conon Bridge,142,33,312,3,63,92,530,Conon Bridge
+S01007375,Garelochhead,Argyll and Bute,439,251,3546,3745,4303,5220,3659,318,5271,3304,3,6,11,51,Helensburgh & Lomond,-,58,37,125,3,25,62,445,Garelochhead
+S01010744,Invergordon,Highland,1062,630,3547,3341,3155,4264,2979,2839,4491,3807,3,6,11,51,East Ross,Invergordon Hospital,143,30,312,3,63,199,1056,Invergordon Hospital
+S01007354,Cowal South,Argyll and Bute,795,412,3580,3669,3744,3926,4947,663,4355,3765,3,6,11,52,Bute & Cowal,-,59,32,125,3,25,104,799,Cowal South
+S01007311,Mid Argyll,Argyll and Bute,801,496,3592,3518,4265,3910,2401,2315,2558,3450,3,6,11,52,"Mid-Argyll, Kintyre & Islay",-,60,29,125,3,25,138,807,Mid Argyll
+S01010684,Skye North West,Highland,771,438,3613,4819,5007,5039,3710,62,4044,4371,3,6,11,52,"Skye, Lochalsh and West Ross",Dunvegan & Waternish,144,26,312,3,63,94,779,Dunvegan & Waternish
+S01010568,Inverness East Rural,Highland,1114,706,3626,3980,3957,5361,5026,227,4099,4953,3,6,11,52,Inverness,Croy,145,103,312,3,63,259,1173,Croy
+S01007357,Cowal North,Argyll and Bute,732,383,3638,3859,3829,4387,5275,412,4920,3058,3,6,11,53,Bute & Cowal,-,61,32,125,3,25,94,715,Cowal North
+S01007331,Kintyre Trail,Argyll and Bute,981,597,3640,4171,3806,4410,4048,438,6703,2581,3,6,11,53,"Mid-Argyll, Kintyre & Islay",-,62,29,125,3,25,162,978,Kintyre Trail
+S01010718,Dingwall,Highland,1053,658,3655,3746.5,3728,4042,5197,645,3961,4846,3,6,11,53,Mid Ross,Dingwall Tulloch,146,33,312,3,63,249,1048,Dingwall Tulloch
+S01010623,"Inverness Central, Raigmore and Longman",Highland,721,407,3657,4278,3968,4326,3020,947,2879,4153,3,6,11,53,Inverness,Inverness Raigmore West,147,103,312,3,63,279,694,Inverness Raigmore West
+S01007287,"Mull, Iona, Coll and Tiree",Argyll and Bute,615,352,3664,4666,4750,5795,4079,70,6172,1293,3,6,11,53,"Oban, Lorn & the Isles",-,63,27,125,3,25,109,628,"Mull, Iona, Coll and Tiree"
+S01007309,Loch Awe,Argyll and Bute,695,427,3669,5512,4847,6120,3525,16,6303,1089,3,6,11,53,"Oban, Lorn & the Isles",-,64,27,125,3,25,86,670,Loch Awe
+S01010815,Sutherland North and West,Highland,429,256,3678,4176,4208,5316,4839,180,5227,3052.5,3,6,11,53,Sutherland,Kinlochbervie & Achfary,148,20,312,3,63,65,444,Kinlochbervie & Achfary
+S01010667,Loch Ness,Highland,666,408,3680,4355,4815,6008,4057,108,3672,3772,3,6,11,53,Inverness,Loch Ness North West,149,103,312,3,63,107,685,Loch Ness North West
+S01010694,Ross and Cromarty North West,Highland,572,282,3683,4078,3502,5154,4679,439,4987,4836,3,6,11,53,"Skye, Lochalsh and West Ross",Aultbea,150,26,312,3,63,59,578,Aultbea
+S01010741,Invergordon,Highland,778,442,3700,3230,4609,3967,4127,1112,2369,6733,3,6,11,54,East Ross,Invergordon Rural,151,30,312,3,63,181,822,Invergordon Rural
+S01007325,Whisky Isles,Argyll and Bute,774,414,3714,4265,4610,4132,4950,185,5849,3069,3,6,11,54,"Mid-Argyll, Kintyre & Islay",-,65,29,125,3,25,140,769,Whisky Isles
+S01007322,Knapdale,Argyll and Bute,705,434,3749,2922,3146,4089,3205,6051,6022,2544,3,6,11,54,"Mid-Argyll, Kintyre & Islay",-,66,29,125,3,25,122,717,Knapdale
+S01010695,Ross and Cromarty Central,Highland,756,464,3756,5105,4339,5087,3461,260,2991,4670,3,6,11,54,Mid Ross,Dingwall Rural,152,33,312,3,63,128,764,Dingwall Rural
+S01010510,Fort William North,Highland,932,527,3775,3824,4243,3432,3203,2408,1918,4463,3,6,11,55,Lochaber,Camaghael and Lochyside,153,27,312,3,63,166,926,Camaghael and Lochyside
+S01010764,Sutherland South,Highland,604,338,3781,4402,4778,5569,4118,130,5802,3229,3,6,11,55,Sutherland,Rogart,154,20,312,3,63,79,607,Rogart
+S01010516,Fort William South,Highland,617,404,3785,4868,4872,4933,4276,791,203,4265,3,6,11,55,Lochaber,Fort William Achintore,155,27,312,3,63,78,633,Fort William Achintore
+S01010509,Lochaber West,Highland,1008,645,3786,5244.5,5408,4841,4076,67,3087,3529,3,6,11,55,Lochaber,Loch Eil,156,27,312,3,63,191,1011,Loch Eil
+S01010679,Skye North East,Highland,577,344,3788,3386,3627,3317,4354,5218,1197,3850,3,6,11,55,"Skye, Lochalsh and West Ross",Portree East & Rural,157,26,312,3,63,75,557,Portree East & Rural
+S01010749,Seaboard,Highland,633,361,3801,4443,4405.5,5369,3594,285,4592,6188,3,6,11,55,East Ross,Tain East Rural,158,30,312,3,63,127,658,Tain East Rural
+S01010701,Ross and Cromarty East,Highland,1030,632,3806,3531,4323,4320,3248,1220,4959,5110,3,6,11,55,East Ross,Evanton,159,30,312,3,63,231,1069,Evanton
+S01007312,Mid Argyll,Argyll and Bute,745,418,3809,4020,4009,5591,4089,469,4708,4487,3,6,11,55,"Mid-Argyll, Kintyre & Islay",-,67,29,125,3,25,122,758,Mid Argyll
+S01010693,Ross and Cromarty North West,Highland,509,310,3811,4800,5422.5,5373,4336,24,5974,3880,3,6,11,55,"Skye, Lochalsh and West Ross",Achiltibuie,160,26,312,3,63,80,512,Achiltibuie
+S01007324,Whisky Isles,Argyll and Bute,360,220,3816,5122,6027.5,6071,1994,89,6594,3428,3,6,11,55,"Mid-Argyll, Kintyre & Islay",-,68,29,125,3,25,52,361,Whisky Isles
+S01007338,Campbeltown,Argyll and Bute,769,431,3818,3262,3621,3566,2570,5576,5009,4739,3,6,11,55,"Mid-Argyll, Kintyre & Islay",-,69,29,125,3,25,193,767,Campbeltown
+S01010553,Nairn Rural,Highland,596,386,3821,5533,4270,6250,4917,20,5074,4298,3,6,11,55,Nairn & Nairnshire,Nairn South Rural,161,18,312,3,63,84,600,Nairn South Rural
+S01010662,Inverness West Rural,Highland,798,504,3831,3843,3871,4400,4231,746,6410,5341,3,6,11,55,Inverness,Kirkhill,162,103,312,3,63,155,804,Kirkhill
+S01007298,Oban North,Argyll and Bute,529,335,3839,4260,4735,3088,3171,1308,6023,761,3,6,12,56,"Oban, Lorn & the Isles",-,70,27,125,3,25,96,523,Oban North
+S01007332,Kintyre Trail,Argyll and Bute,487,290,3850,3854,4076,5441,5149,373,6343,2556,3,6,12,56,"Mid-Argyll, Kintyre & Islay",-,71,29,125,3,25,60,475,Kintyre Trail
+S01010807,Thurso West,Highland,574,314,3853,3860,3072,4231,2954,4234,4325,3523,3,6,12,56,Caithness,Thurso Pennyland Central,163,38,312,3,63,154,574,Thurso Pennyland Central
+S01007380,Garelochhead,Argyll and Bute,578,349,3872,4286,3569,2927,3339,2975,3793,4832,3,6,12,56,Helensburgh & Lomond,-,72,37,125,3,25,166,587,Garelochhead
+S01007404,Lomond Shore,Argyll and Bute,426,248,3873,4242.5,5999.5,4421,4830,305,1007,5013,3,6,12,56,Helensburgh & Lomond,-,73,37,125,3,25,75,412,Lomond Shore
+S01010670,Lochalsh,Highland,693,452,3882,4178,4440,4533,5098,273,6573,3954,3,6,12,56,"Skye, Lochalsh and West Ross",Balmacara & Dornie,164,26,312,3,63,122,734,Balmacara & Dornie
+S01010508,Lochaber West,Highland,1073,628,3884,4880,5023,5436,5880,8,6592,3207,3,6,12,56,Lochaber,"Ardgour, Sunart and Morvern",165,27,312,3,63,197,1077,"Ardgour, Sunart and Morvern"
+S01007361,Hunter's Quay,Argyll and Bute,1022,551,3889,3939,2941,3574,4807,2495,5986,3823,3,6,12,56,Bute & Cowal,-,74,32,125,3,25,108,1013,Hunter's Quay
+S01007328,Whisky Isles,Argyll and Bute,762,462,3897,3022,3862,3249,3740,5987,4760,1400,3,6,12,56,"Mid-Argyll, Kintyre & Islay",-,75,29,125,3,25,123,760,Whisky Isles
+S01010621,"Inverness Central, Raigmore and Longman",Highland,901,614,3902,3713,2250,4012,5889,6400,2913,3574,3,6,12,56,Inverness,Inverness Crown East,166,103,312,3,63,149,913,Inverness Crown East
+S01010713,Dingwall,Highland,759,488,3909,3898,4567,4721,2185,1609,5244,3662,3,6,12,57,Mid Ross,Dingwall Academy,167,33,312,3,63,158,755,Dingwall Academy
+S01007353,Cowal South,Argyll and Bute,672,355,3912,5244.5,4662,4988,3116,214,6271,4466,3,6,12,57,Bute & Cowal,-,76,32,125,4,25,92,666,Cowal South
+S01010506,Lochaber West,Highland,902,552,3920,4180,5051,5400,5574,123,5323,2813,3,6,12,57,Lochaber,"Arisaig, Morar and Knoydart",168,27,312,3,63,175,892,"Arisaig, Morar and Knoydart"
+S01010552,Nairn Rural,Highland,764,490,3922,3875,5288,5951,5715,85,5824,3591,3,6,12,57,Nairn & Nairnshire,Cawdor,169,18,312,3,63,148,754,Cawdor
+S01010722,Black Isle South,Highland,853,526,3931,3641,4185,4343,4279,979,6451,3387,3,6,12,57,Mid Ross,Avoch,170,33,312,3,63,159,866,Avoch
+S01007372,Dunoon,Argyll and Bute,839,456,3951,4028,3867,3419,4379,2214,2555,4213,3,6,12,57,Bute & Cowal,-,77,32,125,4,25,111,831,Dunoon
+S01007288,"Mull, Iona, Coll and Tiree",Argyll and Bute,544,337,3958,5272,5174,5006,5033,81,5255,1113,3,6,12,57,"Oban, Lorn & the Isles",-,78,27,125,4,25,72,573,"Mull, Iona, Coll and Tiree"
+S01007313,Mid Argyll,Argyll and Bute,932,544,3967,4772,5336,5654,5901,23,6078,2071,3,6,12,57,"Mid-Argyll, Kintyre & Islay",-,79,29,125,4,25,155,957,Mid Argyll
+S01007285,"Mull, Iona, Coll and Tiree",Argyll and Bute,849,481,3970,4565,5260,4649,5389,107,5980,2978,3,6,12,57,"Oban, Lorn & the Isles",-,80,27,125,4,25,144,855,"Mull, Iona, Coll and Tiree"
+S01010669,Lochalsh,Highland,604,349,3979,5088,5329.5,5708,4821,15,6761,3907,3,6,12,58,"Skye, Lochalsh and West Ross",Glenshiel & Glenelg,171,26,312,3,63,92,582,Glenshiel & Glenelg
+S01010504,Lochaber West,Highland,590,339,3982,4504,5972.5,6674,5057,6,6132,2038,3,6,12,58,Lochaber,Ardnamurchan & Small Isles,172,27,312,3,63,105,573,Ardnamurchan & Small Isles
+S01010688,Ross and Cromarty South West,Highland,670,419,3983,4966.5,5236,6017,6020,9,5950,1881,3,6,12,58,"Skye, Lochalsh and West Ross","Applecross, Shieldaig & Torridon",173,26,312,3,63,80,679,"Applecross, Shieldaig & Torridon"
+S01007360,Hunter's Quay,Argyll and Bute,565,292,3984,4292,3420,4399,4385,1525,3723,4383,3,6,12,58,Bute & Cowal,-,81,32,125,4,25,58,579,Hunter's Quay
+S01010696,Ross and Cromarty Central,Highland,995,604,3988,3893,3908,3899,3566,1856,5499,4288,3,6,12,58,Mid Ross,Strathpeffer,174,33,312,3,63,166,984,Strathpeffer
+S01010796,Caithness North West,Highland,883,554,3994,4693,4382.5,5455,4825,208,5041,5087,3,6,12,58,Caithness,Westerdale,175,38,312,3,63,176,881,Westerdale
+S01010731,Black Isle North,Highland,854,504,3999,3615,4513,4279,3660,1154,6452,4198,3,6,12,58,Mid Ross,Cromarty,176,33,312,3,63,139,825,Cromarty
+S01010682,Skye North West,Highland,1042,641,4001,5354,5056,4611,5015,60,5580,5322,3,6,12,58,"Skye, Lochalsh and West Ross",Skye Central North,177,26,312,3,63,230,1042,Skye Central North
+S01010702,Ross and Cromarty East,Highland,999,558,4006,5000.5,4919.5,4663,4486,141,5505,6205,3,6,12,58,East Ross,Scotsburn & Barbaraville,178,30,312,3,63,148,1028,Scotsburn & Barbaraville
+S01010699,Ross and Cromarty East,Highland,589,383,4009,4900.5,5156.5,5739,3648,164,5043.5,3403,3,6,12,58,East Ross,Ardross,179,30,312,3,63,101,577,Ardross
+S01010766,Sutherland East,Highland,783,428,4025,3281,3778,3955,2879,5148,5866,3896,3,6,12,58,Sutherland,Golspie South,180,20,312,3,63,155,775,Golspie South
+S01010786,Wick North,Highland,713,429,4032,4600,4845,3565,2407,1116,6031,6283,3,6,12,58,Caithness,Wick Broadhaven,181,38,312,3,63,135,700,Wick Broadhaven
+S01010788,Caithness North East,Highland,595,384,4037,4657,4228,5173,4352,440,4430,4239,3,6,12,58,Caithness,Wick North Rural,182,38,312,3,63,98,580,Wick North Rural
+S01010550,Nairn Rural,Highland,510,332,4051,3807,3675,3609,4007,2377,6715,4040,3,6,12,59,Nairn & Nairnshire,Auldearn,183,18,312,3,63,92,498,Auldearn
+S01010666,Loch Ness,Highland,991,600,4057,3655,3860,4676,4729,1376,5494,3426,3,6,12,59,Inverness,Drumnadrochit,184,103,312,3,63,192,969,Drumnadrochit
+S01010755,Tain,Highland,603,334,4058,2877,3723,4092,3926,6629,3372,4659.5,3,6,12,59,East Ross,Tain Central West,185,30,312,3,63,108,587,Tain Central West
+S01010791,Caithness North East,Highland,828,459,4060,4394,5140.5,5012,5739,110,6435,4751,3,6,12,59,Caithness,Dunnet,186,38,312,3,63,137,805,Dunnet
+S01010532,Badenoch and Strathspey South,Highland,554,331,4065,4114.5,6329,6195,4180,166,2893,3367,3,6,12,59,Badenoch and Strathspey,Badenoch & Strathspey South West,187,17,312,3,63,80,552,Badenoch & Strathspey South West
+S01010677,Skye North East,Highland,541,310,4066,4932,5693.5,6066,5551,4,6420,2435,3,6,12,59,"Skye, Lochalsh and West Ross",Skye East & Raasay,188,26,312,3,63,75,554,Skye East & Raasay
+S01007321,Knapdale,Argyll and Bute,556,309,4075,4914,4413,5449,4574,210,6734,3792,3,6,12,59,"Mid-Argyll, Kintyre & Islay",-,82,29,125,4,25,73,552,Knapdale
+S01010691,Ross and Cromarty North West,Highland,767,475,4078,5497,5554,6508,4047,14,6831,2620,3,6,12,59,"Skye, Lochalsh and West Ross",Ullapool Rural & Dundonnell,189,26,312,4,62,121,782,Ullapool Rural & Dundonnell
+S01010676,Skye South,Highland,925,540,4080,5107.5,4730,5541,4983,122,6298,2505,3,6,12,59,"Skye, Lochalsh and West Ross",Sleat,190,26,312,4,62,158,954,Sleat
+S01010769,Sutherland East,Highland,511,296,4095,4808.5,4196,5256,4548,297,6384,6536,3,6,12,59,Sutherland,Brora Rural,191,20,312,4,62,63,498,Brora Rural
+S01010659,Inverness West Rural,Highland,656,397,4113,5707,5753,6388,5387,267,131,5171.5,3,6,12,59,Inverness,Moniack,192,103,312,4,62,105,660,Moniack
+S01010554,Nairn East,Highland,726,436,4139,3588,3712,4213,4313,3689,4115.5,1959,3,6,12,60,Nairn & Nairnshire,Nairn Fishertown East,193,18,312,4,62,135,742,Nairn Fishertown East
+S01010531,Badenoch and Strathspey South,Highland,1113,629,4170,3844,4369,3861,3406,2150,6438,3349,3,6,12,60,Badenoch and Strathspey,Newtonmore,194,17,312,4,62,203,1119,Newtonmore
+S01010514,Fort William North,Highland,712,432,4182,4099,4656,3457,2613,3412,4302,3102,3,6,12,60,Lochaber,Caol West,195,27,312,4,62,166,696,Caol West
+S01007326,Whisky Isles,Argyll and Bute,788,455,4185,5477,4799,4318,4270,283,5877,3408,3,6,12,60,"Mid-Argyll, Kintyre & Islay",-,83,29,125,4,25,143,831,Whisky Isles
+S01010724,Black Isle South,Highland,916,573,4187,4311,4372.5,4827,4953,606,5122,4837,4,7,13,61,Mid Ross,Munlochy,196,33,312,4,62,191,904,Munlochy
+S01007341,Bute,Argyll and Bute,663,339,4195,4119.5,3805,4516,4992,1431,4137,4934,4,7,13,61,Bute & Cowal,-,84,32,125,4,25,75,630,Bute
+S01007301,Benderloch Trail,Argyll and Bute,941,542,4201,4830,4091,5017,5274,602,3022,5228,4,7,13,61,"Oban, Lorn & the Isles",-,85,27,125,4,25,185,960,Benderloch Trail
+S01010567,Inverness East Rural,Highland,1111,677,4212,4983,4629,4407,5035,325,5478,5208,4,7,13,61,Inverness,Drumossie,197,103,312,4,62,196,1121,Drumossie
+S01010730,Black Isle North,Highland,850,504,4220,5992,5133,6402,3909,41,6659,5158,4,7,13,61,Mid Ross,Balblair,198,33,312,4,62,154,872,Balblair
+S01007319,Greater Lochgilphead,Argyll and Bute,692,394,4224,4692,4415,3749,3318,1399,5361,4568,4,7,13,61,"Mid-Argyll, Kintyre & Islay",-,86,29,125,4,25,129,709,Greater Lochgilphead
+S01010518,Fort William South,Highland,645,410,4237,4655,5130,4814,3235,914,3333,2911.5,4,7,13,61,Lochaber,Fort William Lundavra,199,27,312,4,62,123,634,Fort William Lundavra
+S01010588,Inverness Westhill,Highland,667,413,4257,4240,3819,4415,5726,873,6261,6429,4,7,13,62,Inverness,Inverness East,200,103,312,4,62,129,644,Inverness East
+S01007397,Helensburgh Centre,Argyll and Bute,893,512,4263,3661,3361,4006,4926,4795,3511,4336,4,7,13,62,Helensburgh & Lomond,-,87,37,125,4,25,133,899,Helensburgh Centre
+S01010645,Inverness Scorguie,Highland,491,348,4265,4489,4336,4803,3735,1024,6347,2996,4,7,13,62,Inverness,Inverness Scorguie West,201,103,312,4,62,61,494,Inverness Scorguie West
+S01010705,Muir of Ord,Highland,1179,756,4272,4635,4075,4309,3027,1737,5963,5233,4,7,13,62,Mid Ross,Muir of Ord North West,202,33,312,4,62,251,1202,Muir of Ord North West
+S01010687,Ross and Cromarty South West,Highland,845,472,4274,4357,3980,6015,5507,543,4964,5389,4,7,13,62,"Skye, Lochalsh and West Ross",Gairloch,203,26,312,4,62,130,853,Gairloch
+S01010761,Sutherland South,Highland,549,334,4277,4676,5553,5398,4149,222,6059,4692,4,7,13,62,Sutherland,Clashmore,204,20,312,4,62,90,553,Clashmore
+S01010538,Badenoch and Strathspey Central,Highland,1069,714,4278,3781,4326.5,5128,3840,2072,4155,2700,4,7,13,62,Badenoch and Strathspey,Aviemore West,205,17,312,4,62,285,1094,Aviemore West
+S01007294,Oban South,Argyll and Bute,852,531,4294,4375,4068,3232,3230,4068,5215,2279,4,7,13,62,"Oban, Lorn & the Isles",-,88,27,125,4,25,163,829,Oban South
+S01007383,Helensburgh West and Rhu,Argyll and Bute,729,426,4300,4257.5,3690.5,5314,5807,879,6057,3962,4,7,13,62,Helensburgh & Lomond,-,89,37,125,4,25,120,753,Helensburgh West and Rhu
+S01007314,Mid Argyll,Argyll and Bute,595,368,4315,4365,4634,6088,4935,410,5777,3777,4,7,13,62,"Mid-Argyll, Kintyre & Islay",-,90,29,125,4,25,90,578,Mid Argyll
+S01010636,Inverness Muirtown,Highland,750,491,4343,4385.5,4409,5283,2884,5198,606,4703,4,7,13,63,Inverness,Inverness Dalneigh East,206,103,312,4,62,115,775,Inverness Dalneigh East
+S01010629,Inverness Crown and Haugh,Highland,972,556,4348,3746.5,3109,4214,4521,6797,3749,4792,4,7,13,63,Inverness,Inverness Crown Central,207,103,312,4,62,160,1006,Inverness Crown Central
+S01010655,Inverness West Rural,Highland,981,581,4365,4961,5526,6284,5817,57,6345,4442,4,7,13,63,Inverness,Strathglass,208,103,312,4,62,212,961,Strathglass
+S01010649,Inverness Scorguie,Highland,564,320,4371,4029.5,4841,4681,2141,3322,4966,4772,4,7,13,63,Inverness,Inverness Clachnaharry,209,103,312,4,62,97,560,Inverness Clachnaharry
+S01007289,Oban South,Argyll and Bute,733,449,4376,6379,5790,5294,4777,52,3720,4373,4,7,13,63,"Oban, Lorn & the Isles",-,91,27,125,4,25,123,780,Oban South
+S01007323,Knapdale,Argyll and Bute,412,248,4383,3591,4265,3909,4221,4076,3452,4775,4,7,13,63,"Mid-Argyll, Kintyre & Islay",-,92,29,125,4,25,62,410,Knapdale
+S01007339,Campbeltown,Argyll and Bute,646,323,4385,3856,3365,4374,3939,4778,5567,5574,4,7,13,63,"Mid-Argyll, Kintyre & Islay",-,93,29,125,4,25,110,631,Campbeltown
+S01010793,Caithness North West,Highland,688,394,4391,5154,4653,4712,4258,526,5048,6102,4,7,13,63,Caithness,Castletown Rural,210,38,312,4,62,131,657,Castletown Rural
+S01010690,Ross and Cromarty North West,Highland,682,417,4402,3374,3903,4578,3973,6341,3277,3613,4,7,13,64,"Skye, Lochalsh and West Ross",Ullapool South,211,26,312,4,62,119,664,Ullapool South
+S01010675,Skye South,Highland,677,425,4428,5609.5,5540.5,5315,4852,152,4198,4389,4,7,13,64,"Skye, Lochalsh and West Ross",Skye West,212,26,312,4,62,89,680,Skye West
+S01010658,Inverness West Rural,Highland,716,424,4436,5368,5285,6145,5471,147,3643,4044,4,7,13,64,Inverness,Bunchrew,213,103,312,4,62,114,721,Bunchrew
+S01010781,Wick South,Highland,692,459,4452,4752,4138,3526,3383,6233,1135,5302,4,7,13,64,Caithness,Wick Central South,214,38,312,4,62,123,679,Wick Central South
+S01010612,Inverness Hilton,Highland,769,459,4455,4303,4107,3758,3314,5165,3038,3787,4,7,13,64,Inverness,Inverness Milton,215,103,312,4,62,163,757,Inverness Milton
+S01010758,Sutherland South,Highland,794,436,4470,4833,4796.5,4369,4919,582,5887,5555,4,7,13,65,Sutherland,Embo,216,20,312,4,62,113,762,Embo
+S01007315,Greater Lochgilphead,Argyll and Bute,886,536,4475,3796,3769,4208,4302,5331,3318,4776,4,7,13,65,"Mid-Argyll, Kintyre & Islay",-,94,29,125,4,25,163,854,Greater Lochgilphead
+S01010671,Lochalsh,Highland,749,439,4487,5273,4899,6153,5396,203,5787,3178,4,7,13,65,"Skye, Lochalsh and West Ross",Plockton & Achmore,217,26,312,4,62,131,751,Plockton & Achmore
+S01010551,Nairn Rural,Highland,826,509,4494,5520.5,5009,6013,4943,314,2802,3963,4,7,13,65,Nairn & Nairnshire,Nairn East Rural,218,18,312,4,62,183,837,Nairn East Rural
+S01010520,Fort William South,Highland,900,588,4503,4060,4305,3704,4203,2992,5791,3504.5,4,7,13,65,Lochaber,Inverlochy,219,27,312,4,62,148,879,Inverlochy
+S01007333,Campbeltown,Argyll and Bute,771,435,4510,4118,4617,4111,3589,2736,4055,5986,4,7,13,65,"Mid-Argyll, Kintyre & Islay",-,95,29,125,4,25,130,755,Campbeltown
+S01010726,Black Isle South,Highland,925,510,4511,4058,3922,4820,4887,1807,6067,6420,4,7,13,65,Mid Ross,North Kessock,220,33,312,4,62,138,903,North Kessock
+S01010534,Badenoch and Strathspey South,Highland,884,557,4525,4007,3542,4557,3930,5431,5047,2771,4,7,13,65,Badenoch and Strathspey,Kingussie North East,221,17,312,4,62,170,883,Kingussie North East
+S01007374,Garelochhead,Argyll and Bute,547,344,4549,4351,4098,4788,4957,1777,5265,2595,4,7,14,66,Helensburgh & Lomond,-,96,37,125,4,25,114,538,Garelochhead
+S01007373,Garelochhead,Argyll and Bute,506,275,4575,4709,4340,3905,5578,1802,2867,3856,4,7,14,66,Helensburgh & Lomond,-,97,37,125,4,25,67,526,Garelochhead
+S01010530,Lochaber East and North,Highland,663,392,4585,6184.5,5175,6319,5452,69,5931,4415,4,7,14,66,Lochaber,Glengarry,222,27,312,4,62,112,655,Glengarry
+S01007306,Benderloch Trail,Argyll and Bute,752,434,4589,4430,5295,5304,4327,733,5237,4600,4,7,14,66,"Oban, Lorn & the Isles",-,98,27,125,4,25,155,742,Benderloch Trail
+S01010668,Loch Ness,Highland,1118,687,4590,4859,4817.5,5655,5014,558,4789,4046,4,7,14,66,Inverness,Loch Ness South,223,103,312,4,62,166,1123,Loch Ness South
+S01010725,Black Isle South,Highland,903,567,4591,5454,5475,5738,3728,330,5797,4347,4,7,14,66,Mid Ross,Black Isle South,224,33,312,4,62,178,973,Black Isle South
+S01010540,Badenoch and Strathspey Central,Highland,635,389,4608,4739,5755,5554,3794,480,6777,3216,4,7,14,67,Badenoch and Strathspey,Boat of Garten,225,17,312,4,62,84,625,Boat of Garten
+S01007320,Knapdale,Argyll and Bute,752,448,4617,6273,5898,5986,5895,11,6618,3683,4,7,14,67,"Mid-Argyll, Kintyre & Islay",-,99,29,125,4,25,106,759,Knapdale
+S01010626,Inverness Crown and Haugh,Highland,957,505,4618,4748,2793,4576,5102,4714,4813,5438,4,7,14,67,Inverness,Inverness Haugh East,226,103,312,4,62,121,932,Inverness Haugh East
+S01010720,Black Isle South,Highland,985,528,4634,4373,4204,4671,5498,1327,5688,6224.5,4,7,14,67,Mid Ross,Fortrose East,227,33,312,4,62,187,1024,Fortrose East
+S01010571,Inverness Culloden and Balloch,Highland,722,475,4646,4624.5,3633,4094,3743,4422,6595,3139,4,7,14,67,Inverness,Culloden North,228,103,312,4,62,125,730,Culloden North
+S01010760,Sutherland South,Highland,666,306,4650,3813,3981.5,4329,4147,5204,4713,4902,4,7,14,67,Sutherland,Dornoch West,229,20,312,4,62,88,679,Dornoch West
+S01010544,Badenoch and Strathspey North,Highland,876,509,4654,3915,4670,4890,3426,3432,4607,4184.5,4,7,14,67,Badenoch and Strathspey,Grantown South,230,17,312,4,62,195,865,Grantown South
+S01007307,Benderloch Trail,Argyll and Bute,880,564,4671,5934,5818,6030,4999,93,5755,4602,4,7,14,67,"Oban, Lorn & the Isles",-,100,27,125,4,25,156,891,Benderloch Trail
+S01010599,Inverness Lochardil and Holm Mains,Highland,828,519,4676,4464,4997,5599,5088,643,5393,6694,4,7,14,68,Inverness,Inverness Holm Mains,231,103,312,4,62,286,1037,Inverness Holm Mains
+S01010795,Caithness North West,Highland,943,552,4677,4216,4149,4485,4725,2285,5872,5921,4,7,14,68,Caithness,Halkirk,232,38,312,4,62,143,947,Halkirk
+S01010535,Badenoch and Strathspey South,Highland,728,450,4697,5601,5839,6663,4723,266,2561,3136,4,7,14,68,Badenoch and Strathspey,Kincraig,233,17,312,4,62,124,735,Kincraig
+S01010805,Thurso West,Highland,802,484,4702,4319,3628,4912,3898,5399,3366,5861.5,4,7,14,68,Caithness,Thurso Pennyland South,234,38,312,4,62,166,823,Thurso Pennyland South
+S01010692,Ross and Cromarty North West,Highland,690,468,4723,4271.5,4472,4475,3373,4511,4238,3012,4,7,14,68,"Skye, Lochalsh and West Ross",Ullapool North,235,26,312,4,62,121,709,Ullapool North
+S01010808,Thurso West,Highland,525,334,4734,3613,4538,4772,3491,4808,6009,4686,4,7,14,68,Caithness,Thurso Pennyland North,236,38,312,4,62,123,532,Thurso Pennyland North
+S01010657,Inverness West Rural,Highland,669,429,4735,5585,5731,6591,4822,114,6795,6744,4,7,14,68,Inverness,Kiltarlity,237,103,312,4,62,126,695,Kiltarlity
+S01010591,Inverness Inshes,Highland,1386,923,4738,5031.5,5219,5059,5086,509,5999,4859,4,7,14,68,Inverness,Inverness South,238,103,312,4,62,423,1403,Inverness South
+S01007358,Cowal North,Argyll and Bute,900,596,4740,5510,5708,5268,5010,555,2317,2485,4,7,14,68,Helensburgh & Lomond,-,101,37,125,5,25,145,847,Cowal North
+S01010719,Black Isle South,Highland,655,375,4750,4574,4989,6290,5321,729,4364,3258,4,7,14,69,Mid Ross,Rosemarkie,239,33,312,4,62,130,643,Rosemarkie
+S01010541,Badenoch and Strathspey Central,Highland,861,502,4756,4957,5296,6093,4524,712,3574,3417,4,7,14,69,Badenoch and Strathspey,Carrbridge,240,17,312,4,62,153,871,Carrbridge
+S01010581,Inverness Smithton,Highland,535,378,4766,3970,4232.5,4581,4432,4715,5613,1442,4,7,14,69,Inverness,Culloden Blackwell,241,103,312,4,62,105,534,Culloden Blackwell
+S01010547,Badenoch and Strathspey North,Highland,763,478,4767,5691,5983,6502,3923,245,4988,3989,4,7,14,69,Badenoch and Strathspey,Cromdale,242,17,312,4,62,132,779,Cromdale
+S01010797,Caithness North West,Highland,785,480,4771,5249.5,4582,5763,4985,673,4822,6035,4,7,14,69,Caithness,Thurso Rural,243,38,312,4,62,166,788,Thurso Rural
+S01007382,Helensburgh West and Rhu,Argyll and Bute,642,392,4779,5078,4637,5124,5844,707,4630,5995,4,7,14,69,Helensburgh & Lomond,-,102,37,125,5,25,134,648,Helensburgh West and Rhu
+S01010542,Badenoch and Strathspey North,Highland,910,541,4784,5119,5677,6443,5346,292,6494,1576.5,4,7,14,69,Badenoch and Strathspey,Nethy Bridge,244,17,312,4,62,132,901,Nethy Bridge
+S01010582,Inverness Westhill,Highland,723,452,4786,5324,5113,4700,6226,747,2036,6397,4,7,14,69,Inverness,Inverness East,245,103,312,4,62,147,722,Inverness East
+S01007286,"Mull, Iona, Coll and Tiree",Argyll and Bute,1032,627,4793,4059,4377,4096,5056,4185,3763,3763,4,7,14,69,"Oban, Lorn & the Isles",-,103,27,125,5,25,201,999,"Mull, Iona, Coll and Tiree"
+S01010566,Inverness East Rural,Highland,1111,694,4831,6392,6629,6103,5397,25,6260,4141,4,7,14,70,Inverness,Strathnairn & Strathdearn,246,103,312,4,62,237,1124,Strathnairn & Strathdearn
+S01007385,Helensburgh West and Rhu,Argyll and Bute,777,417,4845,4993,4063,3981,4701,2877,4801,5579,4,7,14,70,Helensburgh & Lomond,-,104,37,125,5,25,130,777,Helensburgh West and Rhu
+S01010507,Lochaber West,Highland,704,443,4850,4123,4876,3360,3947,6196,4565,2614,4,7,14,70,Lochaber,Mallaig,247,27,312,4,62,125,702,Mallaig
+S01010526,Lochaber East and North,Highland,804,480,4857,3855,4816,3458,5089,4781,4876,3314,4,7,14,70,Lochaber,Ballachulish,248,27,312,4,62,140,792,Ballachulish
+S01010664,Loch Ness,Highland,867,534,4869,5280,5760,6292,6496,170,5726,4597,4,7,14,70,Inverness,Balnain,249,103,312,4,62,153,855,Balnain
+S01010537,Badenoch and Strathspey Central,Highland,790,563,4873,4727,4919.5,5567,2943,4852,2054,2133,4,7,14,70,Badenoch and Strathspey,Aviemore West,250,17,312,4,62,80,782,Aviemore West
+S01010533,Badenoch and Strathspey South,Highland,573,341,4885,3902.5,4114.5,4997,4855,6182,2777,4502,4,8,15,71,Badenoch and Strathspey,Kingussie South West,251,17,312,5,62,63,574,Kingussie South West
+S01010653,Inverness Kinmylies and South West,Highland,577,401,4893,4785.5,4687,5165,3193,2823,6461,2604,4,8,15,71,Inverness,Inverness Scorguie South,252,103,312,5,62,48,577,Inverness Scorguie South
+S01010539,Badenoch and Strathspey Central,Highland,1056,716,4917,5513,5217,6327,4740,644,4115.5,2603,4,8,15,71,Badenoch and Strathspey,Aviemore East,253,17,312,5,62,144,1075,Aviemore East
+S01010775,Caithness South,Highland,689,439,4929,4631,5317,5813,4878,869,5350,6084,4,8,15,71,Caithness,Wick West Rural,254,38,312,5,62,142,726,Wick West Rural
+S01010569,Inverness East Rural,Highland,1104,851,4932,6113,6172,6318,3038,421,4926,5100,4,8,15,71,Inverness,Dalcross,255,103,312,5,62,130,1043,Dalcross
+S01010546,Badenoch and Strathspey North,Highland,843,466,4936,4002,4897,3878,3756,6419,4269,4423.5,4,8,15,71,Badenoch and Strathspey,Grantown North,256,17,312,5,62,118,839,Grantown North
+S01010785,Wick North,Highland,663,402,4974,4895,4766,4179,2877,5230,4129,6071,4,8,15,72,Caithness,Wick Hillhead South,257,38,312,5,62,113,673,Wick Hillhead South
+S01010529,Lochaber East and North,Highland,734,432,4976,5033,5418,5728,4475,778,6344,4862,4,8,15,72,Lochaber,Spean Bridge,258,27,312,5,62,129,716,Spean Bridge
+S01007305,Benderloch Trail,Argyll and Bute,751,440,4979,6060,5915.5,6204,5339,182,6087,3950,4,8,15,72,"Oban, Lorn & the Isles",-,105,27,125,5,25,117,716,Benderloch Trail
+S01010700,Ross and Cromarty East,Highland,603,366,4987,5892,6535.5,6215,3999,315,4163,4988,4,8,15,72,East Ross,Ferindonald,259,30,312,5,62,96,597,Ferindonald
+S01010559,Nairn West,Highland,888,451,5008,4153,4398,4136,6120,3495,4637,6312,4,8,15,72,Nairn & Nairnshire,Nairn Fishertown West,260,18,312,5,62,112,881,Nairn Fishertown West
+S01010729,Black Isle North,Highland,719,455,5014,5936,5730,6452,4392,307,6043,6050,4,8,15,72,Mid Ross,Tore & Kinkell,261,33,312,5,62,112,702,Tore & Kinkell
+S01007292,Oban South,Argyll and Bute,763,483,5015,4956,4873,4340,4269,1996,6828,5388,4,8,15,72,"Oban, Lorn & the Isles",-,106,27,125,5,25,130,741,Oban South
+S01010597,Inverness Slackbuie,Highland,968,684,5050,4606.5,5230,5560,4493,1618,5438,4355.5,4,8,15,73,Inverness,Inverness South,262,103,312,5,62,240,929,Inverness South
+S01010600,Inverness Lochardil and Holm Mains,Highland,906,505,5057,4885,5221,4518,4841,2272,3210,4608,4,8,15,73,Inverness,Inverness Lochardil East,263,103,312,5,62,120,926,Inverness Lochardil East
+S01007377,Garelochhead,Argyll and Bute,640,399,5060,5663,5602,5129,5278,476,6781,5432,4,8,15,73,Helensburgh & Lomond,-,107,37,125,5,25,101,650,Garelochhead
+S01010663,Inverness West Rural,Highland,1014,582,5063,5342,5517,5633,4708,634,6712,5900,4,8,15,73,Inverness,Beauly Rural,264,103,312,5,62,205,1036,Beauly Rural
+S01010592,Inverness Inshes,Highland,487,327,5065,4872,4717,4319,5759,1764,6339,4731,4,8,15,73,Inverness,Inverness Inshes,265,103,312,5,62,65,501,Inverness Inshes
+S01010709,Conon,Highland,732,457,5066,5467,5086.5,5295,5434,718,6341,5355,4,8,15,73,Mid Ross,Maryburgh North West,266,33,312,5,62,147,722,Maryburgh North West
+S01010703,Muir of Ord,Highland,871,528,5125,5396,6021.5,5483,5142,470,6471,5507,4,8,15,74,Mid Ross,Muir of Ord Rural,267,33,312,5,62,137,864,Muir of Ord Rural
+S01010602,Inverness Lochardil and Holm Mains,Highland,515,357,5144,5427,5680.5,4684,3974,1243,6387,5239.5,4,8,15,74,Inverness,Inverness Holm Mains,268,103,312,5,62,86,503,Inverness Holm Mains
+S01010756,Tain,Highland,613,363,5151,4913,5741,4661,4660,3662,1092,4554,4,8,15,74,East Ross,Tain North West,269,30,312,5,62,88,601,Tain North West
+S01007403,Helensburgh East,Argyll and Bute,808,503,5153,5308,4798,5025,5538,1300,5362,6568,4,8,15,74,Helensburgh & Lomond,-,108,37,125,5,25,253,790,Helensburgh East
+S01010595,Inverness Inshes,Highland,893,621,5156,4719,5519.5,4637,5375,2838,1726,5702,4,8,15,74,Inverness,Inverness Inshes,270,103,312,5,62,252,875,Inverness Inshes
+S01010804,Thurso West,Highland,567,365,5163,4814,3843,4816,4713,6417,3725,5473,4,8,15,75,Caithness,Thurso Central West,271,38,312,5,62,81,548,Thurso Central West
+S01010809,Thurso West,Highland,742,447,5175,5257.5,5081,4813,5888,990,6820,6346,4,8,15,75,Caithness,Scrabster,272,38,312,5,62,108,727,Scrabster
+S01010524,Lochaber East and North,Highland,494,297,5185,5640,6592,5902,4161,530,5483,4208,4,8,15,75,Lochaber,Nether Lochaber,273,27,312,5,62,71,508,Nether Lochaber
+S01010728,Black Isle North,Highland,535,326,5188,5972,5853,5829,5359,425,4871,6009,4,8,15,75,Mid Ross,Culbokie,274,33,312,5,62,109,529,Culbokie
+S01010549,Nairn Rural,Highland,1329,809,5192,5496,5301,5844,5670,642,5760,6905,4,8,15,75,Nairn & Nairnshire,Nairn East Rural,275,18,312,5,62,362,1433,Nairn East Rural
+S01010721,Black Isle South,Highland,646,363,5219,4775,4660.5,6100,5904,1763,4638,4935,4,8,15,75,Mid Ross,Fortrose West,276,33,312,5,62,100,643,Fortrose West
+S01010562,Nairn West,Highland,739,471,5228,5433,4510,4775,4789,2310,5762,6118,4,8,15,75,Nairn & Nairnshire,Nairn Achareidh South,277,18,312,5,62,96,715,Nairn Achareidh South
+S01010596,Inverness Slackbuie,Highland,1313,847,5234,6451,6748,6445,5220,324,1959,6085,4,8,16,76,Inverness,Inverness South,278,103,312,5,62,394,1500,Inverness South
+S01007297,Oban North,Argyll and Bute,849,564,5236,5343,5684,5859,4814,4477,422,1890,4,8,16,76,"Oban, Lorn & the Isles",-,109,27,125,5,25,131,821,Oban North
+S01010548,Nairn Rural,Highland,698,348,5252,5524,5743,6275,5747,458,6307,5897,4,8,16,76,Nairn & Nairnshire,Nairn West Rural,279,18,312,5,62,106,687,Nairn West Rural
+S01010727,Black Isle North,Highland,655,390,5276,6245,6438,6518,5533,189,6544,5157,4,8,16,76,Mid Ross,Culbokie,280,33,312,5,62,137,653,Culbokie
+S01010723,Black Isle South,Highland,919,601,5298,5885.5,6296,6447,5826,248,6686,5829,4,8,16,76,Mid Ross,Killen & Raddery,281,33,312,5,62,177,910,Killen & Raddery
+S01010601,Inverness Lochardil and Holm Mains,Highland,663,344,5326,5813,4488,4826,4769,2048,6791,6320,4,8,16,77,Inverness,Inverness Lochardil Central,282,103,312,5,62,108,671,Inverness Lochardil Central
+S01007384,Helensburgh West and Rhu,Argyll and Bute,713,422,5328,4874,4664.5,5459,5917,2023,6326,5133.5,4,8,16,77,Helensburgh & Lomond,-,110,37,125,5,25,152,684,Helensburgh West and Rhu
+S01010605,Inverness Lochardil and Holm Mains,Highland,854,478,5334,5456,4893,4961,4768,2115,5456,5943,4,8,16,77,Inverness,Inverness Holm Mains,283,103,312,5,62,137,854,Inverness Holm Mains
+S01010593,Inverness Inshes,Highland,1153,767,5351,4922,5454,5759,6158,1166,5354,5592,4,8,16,77,Inverness,Inverness Castle Heather South,284,103,312,5,62,281,1212,Inverness Castle Heather South
+S01010587,Inverness Westhill,Highland,657,390,5361,6012,5390.5,5893,5624,784,4683,5064,4,8,16,77,Inverness,Cradlehall South,285,103,312,5,62,107,642,Cradlehall South
+S01007381,Helensburgh West and Rhu,Argyll and Bute,584,279,5412,6003,6347,5552,5584,573,4384,5992,4,8,16,78,Helensburgh & Lomond,-,111,37,125,5,25,110,590,Helensburgh West and Rhu
+S01007394,Helensburgh Centre,Argyll and Bute,652,332,5415,4736,4386,4065,5676,5559,5922,6354,4,8,16,78,Helensburgh & Lomond,-,112,37,125,5,25,74,619,Helensburgh Centre
+S01010628,Inverness Crown and Haugh,Highland,946,676,5450,4893,5460.5,4837,3955,6606,2791,2508,4,8,16,79,Inverness,Inverness Crown West,286,103,312,5,62,131,961,Inverness Crown West
+S01007407,Lomond Shore,Argyll and Bute,732,434,5453,5758,5646,5480,5603,816,6817,6151,4,8,16,79,Helensburgh & Lomond,-,113,37,125,5,25,127,727,Lomond Shore
+S01010545,Badenoch and Strathspey North,Highland,725,430,5482,4441.5,5277.5,4306,5104,5639,6048,2240,4,8,16,79,Badenoch and Strathspey,Grantown Central,287,17,312,5,62,157,746,Grantown Central
+S01007406,Lomond Shore,Argyll and Bute,643,363,5490,6471.5,5625,5030,5725,969,3569,6610,4,8,16,79,Helensburgh & Lomond,-,114,37,125,5,25,115,634,Lomond Shore
+S01010647,Inverness Scorguie,Highland,672,411,5515,5753,5469,3742,4489,3236,6268,3413,4,8,16,80,Inverness,Inverness Scorguie Central,288,103,312,5,62,51,649,Inverness Scorguie Central
+S01010585,Inverness Westhill,Highland,850,581,5528,5572,6075,6166,4348,1139,5701,6355,4,8,16,80,Inverness,Westhill East,289,103,312,5,62,263,868,Westhill East
+S01010711,Conon,Highland,802,468,5680,6021,5488,5791,6123,1020,6151,6211,5,9,17,82,Mid Ross,Conon South,290,33,312,5,62,152,797,Conon South
+S01010594,Inverness Inshes,Highland,740,514,5690,5563.5,5462,5825,4297,2596,5475,5650.5,5,9,17,82,Inverness,Inverness Inshes,291,103,312,5,62,178,759,Inverness Inshes
+S01010575,Inverness Culloden and Balloch,Highland,646,370,5717,5373,4261,5804,6168,3350,6225,6830,5,9,17,82,Inverness,Balloch North,292,103,312,5,62,114,649,Balloch North
+S01007405,Lomond Shore,Argyll and Bute,695,436,5753,6537,6243,6345,6669,479,4817,5973,5,9,17,83,Helensburgh & Lomond,-,115,37,125,5,25,127,693,Lomond Shore
+S01010583,Inverness Westhill,Highland,915,572,5766,6213,6510,5970,5654,833,4275,5695,5,9,17,83,Inverness,Westhill West,293,103,312,5,62,137,914,Westhill West
+S01010603,Inverness Lochardil and Holm Mains,Highland,766,461,5774,5969,5538,5900,5598,1281,6627,6440.5,5,9,17,83,Inverness,Inverness Lochardil South,294,103,312,5,62,96,733,Inverness Lochardil South
+S01007401,Helensburgh East,Argyll and Bute,642,388,5792,5508,5690.5,5152,6016,2424,4312,4514,5,9,17,84,Helensburgh & Lomond,-,116,37,125,5,25,98,652,Helensburgh East
+S01010590,Inverness Inshes,Highland,944,589,5832,6424.5,6584,6453,6285,468,5631,6836,5,9,17,84,Inverness,Inverness Castle Heather South,295,103,312,5,62,273,931,Inverness Castle Heather South
+S01007393,Helensburgh North,Argyll and Bute,830,364,5873,4507,5943,3446,6788,6100,5401,4980,5,9,17,85,Helensburgh & Lomond,-,117,37,125,5,25,149,865,Helensburgh North
+S01010646,Inverness Scorguie,Highland,650,415,5976,5611,6020,5462,4875,2450,6928,5380,5,9,18,86,Inverness,Inverness Scorguie,296,103,312,5,62,88,626,Inverness Scorguie
+S01007342,Bute,Argyll and Bute,764,412,5989,6300,6634,5751,5468,1159,4763,6063,5,9,18,86,Bute & Cowal,-,118,32,125,5,25,74,746,Bute
+S01010513,Fort William North,Highland,761,465,6005,5887.5,6003,5788,4495,2330,6622,5691,5,9,18,87,Lochaber,Corpach East and Banavie,297,27,312,5,62,144,779,Corpach East and Banavie
+S01010586,Inverness Westhill,Highland,813,529,6008,6495,6519.5,6189,5996,720,6843,5216,5,9,18,87,Inverness,Westhill East,298,103,312,5,62,155,823,Westhill East
+S01010598,Inverness Slackbuie,Highland,1090,717,6045,5995,6492,6615,5642,1100,6051,5654,5,9,18,87,Inverness,Inverness South,299,103,312,5,62,318,1068,Inverness South
+S01007386,Helensburgh West and Rhu,Argyll and Bute,749,410,6046,5800,5374,6132,6778,1829,6084,6645,5,9,18,87,Helensburgh & Lomond,-,119,37,125,5,25,141,753,Helensburgh West and Rhu
+S01010717,Dingwall,Highland,600,338,6066,6550,5978,6095,4550,1627,6928,6589,5,9,18,87,Mid Ross,Dingwall North,300,33,312,5,62,99,653,Dingwall North
+S01010616,Inverness Drakies,Highland,778,487,6105,5723,5643,5474,5253,4270,4547,4590,5,9,18,88,Inverness,Inverness Drakies North,301,103,312,5,62,116,775,Inverness Drakies North
+S01010579,Inverness Smithton,Highland,658,399,6114,5637,5049,5070,5929,4705,6928,4629,5,9,18,88,Inverness,Culloden Ferntower,302,103,312,5,62,108,663,Culloden Ferntower
+S01007402,Helensburgh East,Argyll and Bute,567,343,6230,6742,6017,5848,5520,1977,5707,3892,5,9,18,90,Helensburgh & Lomond,-,120,37,125,5,25,98,553,Helensburgh East
+S01010560,Nairn West,Highland,682,404,6265,5626,5813,5468,5372,5767,3499,6181.5,5,9,18,90,Nairn & Nairnshire,Nairn Showfield,303,18,312,5,62,92,650,Nairn Showfield
+S01007378,Garelochhead,Argyll and Bute,2804,2605,6326,6887,6915,6938,5959,855,6869,3389,5,10,19,91,Helensburgh & Lomond,-,121,37,125,5,25,98,2673,Garelochhead
+S01010604,Inverness Lochardil and Holm Mains,Highland,480,304,6350,6803.5,6451,6589,6191,1090,6328,6428,5,10,19,92,Inverness,Inverness Lochardil West,304,103,312,5,62,92,476,Inverness Lochardil West
+S01010618,Inverness Drakies,Highland,671,441,6353,5676,5777,5745,5789,4663,4994,5171.5,5,10,19,92,Inverness,Inverness Drakies South,305,103,312,5,62,121,685,Inverness Drakies South
+S01010561,Nairn West,Highland,683,355,6403,6068.5,6486,5377,6320,2213,6802,6001,5,10,19,92,Nairn & Nairnshire,Nairn Achareidh North,306,18,312,5,62,96,669,Nairn Achareidh North
+S01010617,Inverness Drakies,Highland,877,538,6404,5866,5792,6133,5008,4272,6245,6447,5,10,19,92,Inverness,Inverness Drakies Central,307,103,312,5,62,170,861,Inverness Drakies Central
+S01010576,Inverness Culloden and Balloch,Highland,797,454,6496,6479,6548.5,6007,6322,1751,6639,6785,5,10,19,94,Inverness,Balloch South,308,103,312,5,62,148,790,Balloch South
+S01010736,Alness,Highland,520,294,6517,6686,6381.5,5707,4522,3463,6001,6933,5,10,19,94,East Ross,Alness Obsdale,309,30,312,5,62,92,512,Alness Obsdale
+S01007388,Helensburgh North,Argyll and Bute,652,386,6522,6320,6580,6451,6470,1671,6928,6113,5,10,19,94,Helensburgh & Lomond,-,122,37,125,5,25,107,646,Helensburgh North
+S01010625,Inverness Crown and Haugh,Highland,771,405,6532,6235,5578,5814,5592,5127,5272,6465,5,10,19,94,Inverness,Inverness Crown South,310,103,312,5,62,117,761,Inverness Crown South
+S01010607,Inverness Drummond,Highland,875,571,6577,6094.5,6553,6376,5384,3016,6668,5041,5,10,19,95,Inverness,Inverness Upper Drummond,311,103,312,5,62,160,877,Inverness Upper Drummond
+S01007392,Helensburgh North,Argyll and Bute,480,254,6639,6217.5,5867,5536,6714,3890,6332,6943,5,10,20,96,Helensburgh & Lomond,-,123,37,125,5,25,62,483,Helensburgh North
+S01007387,Helensburgh North,Argyll and Bute,692,391,6675,6733,6602,6574,6794,1624,6574,6763,5,10,20,96,Helensburgh & Lomond,-,124,37,125,5,25,124,683,Helensburgh North
+S01010574,Inverness Culloden and Balloch,Highland,588,380,6776,6109,6446,6299,5475,5099,5386,6566,5,10,20,98,Inverness,Culloden Academy,312,103,312,5,62,112,582,Culloden Academy
+S01007391,Helensburgh North,Argyll and Bute,534,319,6819,6893,6944,6634,6780,2003,5614,6766,5,10,20,98,Helensburgh & Lomond,-,125,37,125,5,25,68,511,Helensburgh North
