@@ -1,9 +1,6 @@
-library(data.table)
-
-
 #https://github.com/johnmackintosh/DT_dot_I
 
-
+library(data.table)
 DT <- fread("highdata.csv")
 lookup <- fread("https://raw.githubusercontent.com/johnmackintosh/ph_lookups/main/dz_intzone_cp_dz_names.csv")
 
@@ -40,10 +37,10 @@ setnames(DT,
                  "areaname"))
 
 
-DT[,.I[Income == max(Income)]]
+DT[,.I[Income == max(Income)]] # 437
 
 # returns data.table
-DT[,.I[Health == max(Health)],.SD]
+DT[,.I[Health == max(Health)],.SD] # 424
 
 
 # returns single element vector
@@ -72,6 +69,14 @@ DT[1, Health]  # lowest Health rank is 12
 DT[c(1,417), Health] # low / high is 12 / 6615
 
 DT[Health == 6615,]
+
+
+
+## what happens if we do something in i, then .I?
+# note new Inverness indices compared to 1 & 417 previously
+
+DT[ areaname == "Inverness",  .(min_health = .I[Health == min(Health)], # still 1
+                                max_health = .I[Health == max(Health)])] # now 94
 
 
 
